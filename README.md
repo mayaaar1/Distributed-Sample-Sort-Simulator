@@ -32,6 +32,7 @@ Unlike a standard Merge Sort, our Sample Sort strategy is content-oriented:
 * `/docs`: Technical report (PDF) detailing the methodology.
 
 ## 🎓 Academic Context
-Developed as part of the **Master 1 in Decision Support Systems (SID)** at **USTO-MB**, Algeria.
+Developed as part of the **Master 1 in Decision Information Systems (SID)** at **USTO-MB Univ
+**, Algeria.
 **Author**: Zohra Mayar Yagoubi
 **Supervisor**: Mme S. SENHADJI
