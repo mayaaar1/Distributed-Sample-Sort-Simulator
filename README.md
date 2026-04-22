@@ -1,4 +1,4 @@
-# Distributed Sample Sort Simulator 🚀
+# Distributed Sample Sort Simulator 
 
 A high-performance distributed sorting system simulation built with **Java** and the **GridSim Toolkit**. This project demonstrates advanced concepts in parallel computing, network simulation, and load balancing.
 
